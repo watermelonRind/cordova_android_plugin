@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "F:\\workroom\\Cordova\\CustomPlugin\\ZITOPay",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "F:\\workroom\\Cordova\\CustomPlugin\\ZITOPay",
+        "spec": "F:\\workroom\\Cordova\\CustomPlugin\\ZITOPay",
+        "type": "directory"
+      },
+      "F:\\workroom\\Cordova\\helloworld"
+    ]
+  ],
+  "_from": "..\\CustomPlugin\\ZITOPay",
+  "_id": "cordova-plugin-zitopay@1.0.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-zitopay",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "F:\\workroom\\Cordova\\CustomPlugin\\ZITOPay",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "F:\\workroom\\Cordova\\CustomPlugin\\ZITOPay",
+    "spec": "F:\\workroom\\Cordova\\CustomPlugin\\ZITOPay",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:..\\CustomPlugin\\ZITOPay",
+  "_shasum": "0bc1c0a20e6eb3f21d786503460c00d2bdf5a64f",
+  "_shrinkwrap": null,
+  "_spec": "F:\\workroom\\Cordova\\CustomPlugin\\ZITOPay",
+  "_where": "F:\\workroom\\Cordova\\helloworld",
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "cordova-plugin-zitopay",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

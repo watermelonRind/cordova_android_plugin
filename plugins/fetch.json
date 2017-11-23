@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-zitopay": {
+    "source": {
+      "type": "local",
+      "path": "F:\\workroom\\Cordova\\helloworld\\node_modules\\cordova-plugin-zitopay"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
